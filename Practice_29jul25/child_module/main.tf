@@ -10,3 +10,7 @@ resource "azurerm_resource_group" "rgjitu2" {
   name = "rgjitu2"
     location = "East US"
 }
+resource "azurerm_resource_group" "rgjitu4" {
+  name = "rgjitu4"
+    location = "East US"
+}
